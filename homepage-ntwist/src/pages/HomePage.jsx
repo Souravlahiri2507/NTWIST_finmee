@@ -3,6 +3,7 @@ import Navbar from "../components/Navbar";
 import "../css/homepage.css";
 import ImgHeader from "../components/ImgHeader";
 import MainPage from "../components/MainPage";
+import Footer from "../components/Footer";
 
 
 const HomePage = () => {
@@ -14,6 +15,7 @@ const HomePage = () => {
         <ImgHeader/>  
       </div>
       <MainPage/>
+      <Footer/>
     </div>
   );
 };

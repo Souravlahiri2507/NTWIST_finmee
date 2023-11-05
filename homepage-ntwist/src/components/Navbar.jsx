@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className="flex-container">
       {/* Company logo */}
-      <div class="logo">
+      <div className="logo">
         <a href="/">
           <img
             src="https://ntwist.com/wp-content/uploads/2021/12/ntwistlight.png"
